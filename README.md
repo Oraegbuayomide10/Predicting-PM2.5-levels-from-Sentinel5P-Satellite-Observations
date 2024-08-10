@@ -6,7 +6,6 @@ Estimated PM2.5 levels from Sentinel5P satellite observations based on Aerosol O
 # Summary of Approach
 Group K-Fold Cross validation, data cleaning, feature engineering, feature selection and CatBoostRegressor model.
 
-architectures
 # Model Architecture
 
 Catboost Regressor
